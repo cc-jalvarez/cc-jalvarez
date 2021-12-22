@@ -1,12 +1,27 @@
-### Hi there 👋
+<h4 align="center"><samp> 
+  Hi there 👋 welcome to my GitHub. I'm a data science researcher studying causality and fairness.  
+</samp></h4>
 
 <div align='center'>
-  <img height=150 src='https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif' />
+  <img height=200 src='https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif' />
 </div>
+
+<p align="center">
+  <a> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+  <a> <img src="https://img.icons8.com/windows/64/000000/r-project.png"/> </a>
+  <a> <img src="https://img.icons8.com/dusk/64/000000/scala.png"/> </a>
+</p>
+<p align="center"><samp>
+Have a look at my repos ⬇️  
+  </samp>
+</p>
 
 
 
 <!--
+
+### Hi there 👋
+
 **cc-jalvarez/cc-jalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
