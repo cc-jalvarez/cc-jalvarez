@@ -1,16 +1,19 @@
 <h4 align="center"><samp> 
-  Hi there 👋 welcome to my GitHub. I'm a data science researcher studying causality and fairness.  
+  Hi there 👋 I'm a data science researcher working on causality and fairness. Welcome to my GitHub. 
 </samp></h4>
 
 <div align='center'>
-  <img height=200 src='https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif' />
+  <img height=250 src='https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif' />
 </div>
 
 <p align="center">
-  <a> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-  <a> <img src="https://img.icons8.com/windows/64/000000/r-project.png"/> </a>
-  <a> <img src="https://img.icons8.com/dusk/64/000000/scala.png"/> </a>
+  <a> <img src="https://img.icons8.com/color/40/000000/python--v1.png"/> </a>
+  <a> <img src="https://img.icons8.com/windows/40/000000/r-project.png"/> </a>
+  <a> <img src="https://img.icons8.com/dusk/40/000000/scala.png"/> </a>
+  <a> <img src="https://img.icons8.com/fluency/40/000000/anaconda--v2.png"/> </a>
+  <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
+
 <p align="center"><samp>
 Have a look at my repos ⬇️  
   </samp>
