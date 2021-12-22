@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align='center'>
+  <img height=150 src='https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif' />
+</div>
+
+
+
 <!--
 **cc-jalvarez/cc-jalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
