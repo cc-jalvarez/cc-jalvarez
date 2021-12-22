@@ -20,7 +20,7 @@
 </p>
 
 <p align="center"><samp>
-Have a look at my repos below. 
+Welcome to my GitHub. 
 </samp>
 </p>
 
