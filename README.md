@@ -1,5 +1,5 @@
 <h4 align="center"><samp> 
-  Hi there 👋 I'm a data scientist researching fairness in machine learning. 
+  Hi there 👋 I'm a PhD candidate researching fairness in machine learning. 
 </samp></h4>
 
 <div align='center'>
