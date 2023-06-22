@@ -7,7 +7,7 @@
 </div>
 
 <p align="center"><samp>
-  I work (mostly) with:
+  I work mostly with:
 </samp>
 </p>
 
