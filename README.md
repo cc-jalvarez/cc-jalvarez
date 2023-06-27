@@ -1,12 +1,13 @@
-<h4 align="center"><samp> 
-  Hi there 👋 I'm a PhD student researching (fair) machine learning. 
-</samp></h4>
+<p align="center"><samp>
+  I'm a PhD student researching (fair) machine learning.
+</samp>
+</p>
 
 <div align='center'>
   <img height=250 src='https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif' />
 </div>
 
-<p align="center"><samp>
+<p align="center"><samp>  
   I work mostly with:
 </samp>
 </p>
