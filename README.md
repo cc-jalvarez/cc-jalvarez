@@ -16,8 +16,8 @@
   <a> <img src="https://img.icons8.com/color/40/000000/python--v1.png"/> </a>
   <a> <img src="https://img.icons8.com/windows/40/000000/r-project.png"/> </a>
   <a> <img src="https://img.icons8.com/dusk/40/000000/scala.png"/> </a>
-  <a> <img src="https://img.icons8.com/fluency/40/000000/anaconda--v2.png"/> </a>
-  <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<!--   <a> <img src="https://img.icons8.com/fluency/40/000000/anaconda--v2.png"/> </a>
+  <a> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> -->
 </p>
 
 <p align="center"><samp>
