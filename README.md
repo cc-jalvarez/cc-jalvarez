@@ -1,5 +1,5 @@
 <p align="center"><samp>
-  I'm a PhD candidate in (fair) machine learning.
+  I'm a (fair) machine learning researcher.
 </samp>
 </p>
 
