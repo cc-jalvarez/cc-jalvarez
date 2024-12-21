@@ -1,5 +1,5 @@
 <p align="center"><samp>
-  I am a researcher interested in data science tools for algorithmic decision-making and their societal implications.
+  I research data science tools for algorithmic decision-making and their societal implications.
 </samp>
 </p>
 
