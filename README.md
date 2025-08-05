@@ -1,5 +1,5 @@
 <p align="center"><samp>
-  I research tools for algorithmic decision-making and their societal implications at KU Leuven.
+  I research algorithmic tools for decision-making and their societal implications at KU Leuven.
 </samp>
 </p>
 
